@@ -1,0 +1,5 @@
+IDEAS to implement:
+- color codes
+- arrow keys instead of emacs
+- save
+- open
